@@ -1,0 +1,64 @@
+.heading
+{
+    font-size: 25px;
+    color: azure;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 18px;
+    color: black;
+}
+
+.Sdisk
+{
+   width: 200px;
+   border-radius: 100px;
+}
+
+.speed
+{
+  float:left;  
+}
+
+body
+{
+ background-size: cover;
+}
+
+#Speed
+{
+ font-size: 25px;
+ margin: 15px;
+}
+
+.vol
+{
+    float:right;
+}
+
+.Vdisk
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+#play
+{
+    width: 120px;
+    font-size: 25px;
+}
+
+canvas
+{
+    border:10px solid white ;
+    border-radius: 20px;
+}
